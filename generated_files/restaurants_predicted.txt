@@ -1,0 +1,358 @@
+Text: All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!
+Aspect Terms:
+appetizers
+salads
+steak
+pasta
+
+Text: And really large portions
+Aspect Terms:None
+
+Text: Go inside and you won't want to leave
+Aspect Terms:None
+
+Text: Save yourself the time and trouble and skip this one!
+Aspect Terms:None
+
+Text: The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable
+Aspect Terms:
+rasamalai
+
+Text: Service was quick
+Aspect Terms:
+Service
+
+Text: Oh, don't even let me start with how expensive the bills were!
+Aspect Terms:
+bills
+
+Text: Service is top notch
+Aspect Terms:
+Service
+
+Text: The best thing I tasted were the lambc hops
+Aspect Terms:None
+
+Text: Overall I would recommend it and go back again
+Aspect Terms:None
+
+Text: I've been here a couple of times and have not been impressed
+Aspect Terms:None
+
+Text: Even though its good seafood, the prices are too high
+Aspect Terms:
+prices
+
+Text: In addition, the food is very good and the prices are reasonable
+Aspect Terms:
+food
+prices
+
+Text: The food is great and authentic
+Aspect Terms:
+food
+
+Text: I was at Rao's last Wed
+Aspect Terms:None
+
+Text: I recommend the garlic shrimp, okra (bindi), and anything with lamb
+Aspect Terms:None
+
+Text: The menu was impressive with selections ranging from a burger, to steak, to escargot
+Aspect Terms:
+menu
+
+Text: very good breads as well
+Aspect Terms:
+breads
+
+Text: Anyway, the food is good, the price is right and they have a decent wine list
+Aspect Terms:
+food
+price
+
+Text: The food was lousy -too sweet or too salty and the portions tiny
+Aspect Terms:
+food
+portions
+
+Text: But the coconut rice was good
+Aspect Terms:None
+
+Text: And the Tom Kha soup was pathetic
+Aspect Terms:None
+
+Text: The food now is inconsistent
+Aspect Terms:
+food
+
+Text: Try the crunchy tuna, it is to die for
+Aspect Terms:None
+
+Text: Reasonable prices
+Aspect Terms:None
+
+Text: Everything at Sala Thai is tasty and well-portioned
+Aspect Terms:None
+
+Text: Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening
+Aspect Terms:
+service
+food
+price
+
+Text: Unfortunately, the food was NOT something to get worked up about
+Aspect Terms:
+food
+
+Text: The food is great and reasonably priced
+Aspect Terms:
+food
+
+Text: I got enough reasons to keep coming back!!!
+Aspect Terms:None
+
+Text: Their calzones are horrific, bad, vomit-inducing, YUCK
+Aspect Terms:
+calzones
+
+Text: A few tips: skip the turnip cake, roast pork buns and egg custards
+Aspect Terms:None
+
+Text: The bagels are fabulous
+Aspect Terms:
+bagels
+
+Text: I never had anything I didn't like here
+Aspect Terms:None
+
+Text: I definitely wouldn't go back
+Aspect Terms:None
+
+Text: While the ambiance and atmosphere were great, the food and service could have been a lot better
+Aspect Terms:
+ambiance
+atmosphere
+food
+service
+
+Text: Our waitress was sweet and accomodating, not overbearing
+Aspect Terms:
+waitress
+
+Text: I have tried literally every restaurant on curry row
+Aspect Terms:None
+
+Text: My goodness, everything from the fish to the rice to the seaweed was absolutely amazing
+Aspect Terms:
+fish
+rice
+seaweed
+
+Text: I went to this restaurant with a woman that I met recently
+Aspect Terms:None
+
+Text: Good spreads, great beverage selections and bagels really tasty
+Aspect Terms:
+bagels
+
+Text: The food options rule
+Aspect Terms:None
+
+Text: Consistently good Japanese Tapas
+Aspect Terms:None
+
+Text: I went to Ruby Foo's after work with a group of 6
+Aspect Terms:None
+
+Text: The sushi was awful!
+Aspect Terms:
+sushi
+
+Text: My boyfriend and I went there to celebrate my birthday the other night and all I can say is that it was magnificent
+Aspect Terms:None
+
+Text: Now it's so crowded and loud you can't even talk to the person next to you
+Aspect Terms:None
+
+Text: Go, go, hurry, before everyone finds out about it
+Aspect Terms:None
+
+Text: I've been many time and have never been disappointed
+Aspect Terms:None
+
+Text: The food was great
+Aspect Terms:
+food
+
+Text: Don't leave without trying One Night in Tokyo
+Aspect Terms:None
+
+Text: I would go back tho
+Aspect Terms:None
+
+Text: Definately check it out!!!
+Aspect Terms:None
+
+Text: You cannot go wrong with this place
+Aspect Terms:None
+
+Text: As a Japanese native, I've lived in the Tristate area for over 8 years, but I was just so amazed at this place
+Aspect Terms:None
+
+Text: I loving bringing friends here -and I do so every chance I get
+Aspect Terms:None
+
+Text: With the theater 2 blocks away we had a delicious meal in a beautiful room
+Aspect Terms:
+meal
+
+Text: Even my Indian friend couldn't believe how good and tasty everything was
+Aspect Terms:None
+
+Text: We were not dissappointed in the least bit by this little gem
+Aspect Terms:None
+
+Text: A pleasant surprise
+Aspect Terms:None
+
+Text: This was a repeat visit and we'll definitely be back again
+Aspect Terms:None
+
+Text: I love the fact that the pizza tastes so good and is so cheap
+Aspect Terms:
+pizza
+
+Text: Service was prompt, friendly and great
+Aspect Terms:
+Service
+
+Text: OU MUST TRY THIS RESTAURANT
+Aspect Terms:None
+
+Text: All pretty good
+Aspect Terms:None
+
+Text: Have eaten at Ginger House several times, and it's always good
+Aspect Terms:None
+
+Text: I haven't eat a lamb chop as delicious as that, the salads are really nice dressed with lemon and extra virgnin olive oil
+Aspect Terms:
+salads
+lemon
+
+Text: Drawbacks: service is slow and they don't toast!
+Aspect Terms:
+service
+
+Text: It is by far my favorite restaurant in Brooklyn
+Aspect Terms:None
+
+Text: I've been to Joya twice and I will never go again
+Aspect Terms:None
+
+Text: A hearty two thumbs up!
+Aspect Terms:None
+
+Text: Great find!!!
+Aspect Terms:None
+
+Text: If only they delivered, they'd make a mint!
+Aspect Terms:None
+
+Text: Was surprisingly disappointed
+Aspect Terms:None
+
+Text: The prices were fantastic
+Aspect Terms:
+prices
+
+Text: I'm told that it is open 24hrs which is good
+Aspect Terms:None
+
+Text: What more could you want?
+Aspect Terms:None
+
+Text: Excellent experience
+Aspect Terms:None
+
+Text: Definitely a neighborhood favorite
+Aspect Terms:None
+
+Text: The food is terrible and overall, I would have to say avoid at all costs
+Aspect Terms:
+food
+
+Text: The food is prepared quickly and efficiently
+Aspect Terms:
+food
+
+Text: The food is fresh, delicious, and reasonably priced
+Aspect Terms:
+food
+priced
+
+Text: This is my favorite Italian restaurant in all of New York City
+Aspect Terms:None
+
+Text: Anyway, this is the last time I cross the williamsburg
+Aspect Terms:None
+
+Text: I am bringing my whole family back next time
+Aspect Terms:None
+
+Text: Love YUKA
+Aspect Terms:None
+
+Text: As we were leaving, the couple standing by the door said to another waiter, we're not in a hurry
+Aspect Terms:None
+
+Text: I have been coming to this neighborhood spot for years
+Aspect Terms:None
+
+Text: We will be back
+Aspect Terms:None
+
+Text: The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful
+Aspect Terms:None
+
+Text: A large is $20, and toppings are about $3 each
+Aspect Terms:
+toppings
+
+Text: The spicy tuna and salmon are the best we've ever had
+Aspect Terms:
+salmon
+
+Text: A guaranteeed delight!
+Aspect Terms:None
+
+Text: The food was very good, a great deal, and the place its self was great
+Aspect Terms:
+food
+place
+
+Text: The food is usually good but it certainly isn't a relaxing place to go
+Aspect Terms:
+food
+
+Text: After dinner, take your date to the HUGE dance floor, probably one of the biggest you'll see in NY
+Aspect Terms:None
+
+Text: The server was really cool and served us our food and drinks with a smile
+Aspect Terms:
+server
+served
+food
+drinks
+
+Text: The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had)
+Aspect Terms:
+dishes
+
+Text: Went there for an office lunch
+Aspect Terms:None
+
+Text: We've only eaten in the restaurant once, but we have ordered many times for dinner
+Aspect Terms:None
+

@@ -1,0 +1,100 @@
+All_PDT_B-NP the_DT_I-NP appetizers_NNS_I-NP and_CC_I-NP salads_NNS_I-NP were_VBD_B-VP fabulous,_PDT_B-O the_DT_B-NP steak_NN_I-NP was_VBD_B-VP mouth_NN_B-NP watering_VBG_B-VP and_CC_B-O the_DT_B-NP pasta_NN_I-NP was_VBD_B-VP delicious!!!_._B-O
+And_CC_B-O really_RB_B-ADJP large_JJ_I-ADJP portions._._B-O
+Go_VB_B-VP inside_RB_B-ADVP and_CC_B-O you_PRP_B-NP won't_MD_B-VP want_VB_I-VP to_TO_B-PP leave._CD_B-NP
+Save_VB_B-VP yourself_PRP_B-NP the_DT_B-NP time_NN_I-NP and_CC_B-O trouble_VB_B-VP and_CC_I-VP skip_VB_I-VP this_DT_B-NP one!_._B-O
+The_DT_B-NP sweet_JJ_I-NP lassi_NN_I-NP was_VBD_B-VP excellent_JJ_B-ADJP as_IN_B-SBAR was_VBD_B-O the_DT_B-NP lamb_NN_I-NP chettinad_NNS_I-NP and_CC_B-O the_DT_B-NP garlic_NN_I-NP naan_NN_I-NP but_CC_B-O the_DT_B-NP rasamalai_NN_I-NP was_VBD_B-VP forgettable._._B-O
+Service_NN_B-NP was_VBD_B-VP quick._._B-O
+Oh,_MD_B-VP don't_RB_I-VP even_RB_I-VP let_VB_I-VP me_PRP_B-NP start_VB_B-VP with_IN_B-PP how_WRB_B-ADVP expensive_JJ_B-O the_DT_B-NP bills_NNS_I-NP were!_._B-O
+Service_NN_B-NP is_VBZ_B-VP top_JJ_B-ADJP notch._._B-O
+The_DT_B-NP best_JJS_I-NP thing_NN_I-NP I_PRP_B-NP tasted_VBD_B-VP were_VBD_B-VP the_DT_B-NP lambc_NNS_I-NP hops._._B-O
+Overall_RB_B-ADVP I_PRP_B-NP would_MD_B-VP recommend_VB_I-VP it_PRP_B-NP and_CC_B-O go_VB_B-VP back_RB_B-ADVP again._CD_B-NP
+I've_JJ_B-VP been_VBN_I-VP here_RB_B-ADVP a_DT_B-NP couple_NN_I-NP of_IN_B-PP times_NNS_B-NP and_CC_B-O have_VBP_B-VP not_RB_I-VP been_VBN_I-VP impressed._._B-O
+Even_RB_B-SBAR though_IN_I-SBAR its_PRP$_B-NP good_JJ_I-NP seafood,_IN_I-NP the_DT_B-NP prices_NNS_I-NP are_VBP_B-VP too_RB_B-ADVP high._CD_B-NP
+In_IN_B-PP addition,_PDT_B-O the_DT_B-NP food_NN_I-NP is_VBZ_B-VP very_RB_B-ADJP good_JJ_I-ADJP and_CC_B-O the_DT_B-NP prices_NNS_I-NP are_VBP_B-VP reasonable._._B-O
+The_DT_B-NP food_NN_I-NP is_VBZ_B-VP great_JJ_B-ADJP and_CC_B-O authentic._VB_B-VP
+I_PRP_B-NP was_VBD_B-VP at_IN_B-PP Rao's_CD_B-NP last_JJ_I-NP Wed._NNP_I-NP
+I_PRP_B-NP recommend_VBP_B-VP the_DT_B-NP garlic_NN_I-NP shrimp,_FW_I-NP okra_NN_I-NP (bindi),_JJ_B-ADJP and_CC_B-O anything_NN_B-NP with_IN_B-PP lamb._._B-O
+The_DT_B-NP menu_NN_I-NP was_VBD_B-VP impressive_JJ_B-ADJP with_IN_B-PP selections_NNS_B-NP ranging_VBG_B-VP from_IN_B-PP a_DT_B-NP burger,_NN_I-NP to_TO_B-VP steak,_VB_I-VP to_TO_B-PP escargot._VB_B-NP
+very_RB_B-NP good_JJ_I-NP breads_NNS_I-NP as_IN_B-PP well._CD_B-NP
+Anyway,_CC_B-O the_DT_B-NP food_NN_I-NP is_VBZ_B-VP good,_NNP_B-O the_DT_B-NP price_NN_I-NP is_VBZ_B-VP right_JJ_B-ADJP and_CC_B-O they_PRP_B-NP have_VBP_B-VP a_DT_B-NP decent_JJ_I-NP wine_NN_I-NP list._._B-O
+The_DT_B-NP food_NN_I-NP was_VBD_B-VP lousy_JJ_B-ADJP -too_CC_I-ADJP sweet_JJ_I-ADJP or_CC_B-O too_RB_B-ADJP salty_JJ_I-ADJP and_CC_B-O the_DT_B-NP portions_NNS_I-NP tiny._._B-O
+But_CC_B-O the_DT_B-NP coconut_NN_I-NP rice_NN_I-NP was_VBD_B-VP good._JJ_B-ADJP
+And_CC_B-O the_DT_B-NP Tom_NNP_I-NP Kha_NNP_I-NP soup_NN_I-NP was_VBD_B-VP pathetic._._B-O
+The_DT_B-NP food_NN_I-NP now_RB_B-ADVP is_VBZ_B-VP inconsistent._._B-O
+Try_VB_B-VP the_DT_B-NP crunchy_JJ_I-NP tuna,_VB_I-NP it_PRP_B-NP is_VBZ_B-VP to_TO_B-VP die_VB_I-VP for._CD_B-NP
+Reasonable_JJ_B-NP prices._CD_I-NP
+Everything_NN_B-NP at_IN_B-PP Sala_NNP_B-NP Thai_NNP_I-NP is_VBZ_B-VP tasty_JJ_B-ADJP and_CC_I-ADJP well-portioned._JJ_I-ADJP
+Add_VB_B-VP to_TO_B-PP that_DT_B-NP great_JJ_I-NP service_NN_I-NP and_CC_B-O great_JJ_B-NP food_NN_I-NP at_IN_B-PP a_DT_B-NP reasonable_JJ_I-NP price_NN_I-NP and_CC_B-O you_PRP_B-NP have_VBP_B-VP yourself_PRP_B-NP the_DT_B-NP beginning_NN_I-NP of_IN_B-PP a_DT_B-NP great_JJ_I-NP evening._CD_I-NP
+Unfortunately,_PDT_B-O the_DT_B-NP food_NN_I-NP was_VBD_B-VP NOT_RB_B-O something_NN_B-NP to_TO_B-VP get_VB_I-VP worked_VBN_I-VP up_RP_B-PRT about._._B-O
+The_DT_B-NP food_NN_I-NP is_VBZ_B-VP great_JJ_B-ADJP and_CC_B-O reasonably_RB_B-VP priced._._B-O
+I_PRP_B-NP got_VBD_B-VP enough_JJ_B-NP reasons_NNS_I-NP to_TO_B-VP keep_VB_I-VP coming_VBG_I-VP back!!!_._B-O
+Their_PRP$_B-NP calzones_NNS_I-NP are_VBP_B-VP horrific,_NNP_B-NP bad,_NNP_I-NP vomit-inducing,_NNP_I-NP YUCK._._B-O
+A_DT_B-NP few_JJ_I-NP tips:_NNS_I-NP skip_VBP_B-VP the_DT_B-NP turnip_NN_I-NP cake,_VBZ_I-NP roast_VBP_B-VP pork_NN_B-NP buns_NNS_I-NP and_CC_B-O egg_NN_B-NP custards._._B-O
+The_DT_B-NP bagels_NNS_I-NP are_VBP_B-VP fabulous._._B-O
+I_PRP_B-NP never_RB_B-ADVP had_VBD_B-VP anything_NN_B-NP I_PRP_B-NP didn't_RB_B-O like_IN_B-PP here._CD_B-NP
+I_PRP_B-NP definitely_RB_B-VP wouldn't_RB_I-VP go_VB_I-VP back._CD_B-NP
+While_IN_B-SBAR the_DT_B-NP ambiance_NN_I-NP and_CC_I-NP atmosphere_NN_I-NP were_VBD_B-VP great,_PDT_B-O the_DT_B-NP food_NN_I-NP and_CC_I-NP service_NN_I-NP could_MD_B-VP have_VB_I-VP been_VBN_I-VP a_DT_B-NP lot_NN_I-NP better._._B-O
+Our_PRP$_B-NP waitress_NN_I-NP was_VBD_B-VP sweet_JJ_B-ADJP and_CC_B-O accomodating,_VB_B-VP not_RB_B-O overbearing._._I-O
+I_PRP_B-NP have_VBP_B-VP tried_VBN_I-VP literally_RB_B-ADVP every_DT_B-NP restaurant_NN_I-NP on_IN_B-PP curry_NN_B-VP row._CD_B-NP
+My_PRP$_B-NP goodness,_JJ_I-NP everything_NN_I-NP from_IN_B-PP the_DT_B-NP fish_NN_I-NP to_TO_B-PP the_DT_B-NP rice_NN_I-NP to_TO_B-PP the_DT_B-NP seaweed_NN_I-NP was_VBD_B-VP absolutely_RB_B-ADVP amazing._._B-O
+I_PRP_B-NP went_VBD_B-VP to_TO_B-PP this_DT_B-NP restaurant_NN_I-NP with_IN_B-PP a_DT_B-NP woman_NN_I-NP that_IN_B-SBAR I_PRP_B-NP met_VBD_B-VP recently._JJ_B-ADJP
+Good_JJ_B-NP spreads,_JJ_I-NP great_JJ_I-NP beverage_NN_I-NP selections_NNS_I-NP and_CC_I-NP bagels_NNS_I-NP really_RB_B-ADVP tasty._._B-O
+The_DT_B-NP food_NN_I-NP options_NNS_I-NP rule._._B-O
+Consistently_RB_B-NP good_JJ_I-NP Japanese_JJ_I-NP Tapas._._B-O
+I_PRP_B-NP went_VBD_B-VP to_TO_B-PP Ruby_NNP_B-NP Foo's_CD_I-NP after_IN_B-PP work_NN_B-NP with_IN_B-PP a_DT_B-NP group_NN_I-NP of_IN_B-PP 6._CD_B-NP
+The_DT_B-NP sushi_NN_I-NP was_VBD_B-VP awful!_._B-O
+My_PRP$_B-NP boyfriend_NN_I-NP and_CC_B-O I_PRP_B-NP went_VBD_B-VP there_RB_B-ADVP to_TO_B-VP celebrate_VB_I-VP my_PRP$_B-NP birthday_NN_I-NP the_DT_B-NP other_JJ_I-NP night_NN_I-NP and_CC_B-O all_DT_B-NP I_PRP_B-NP can_MD_B-VP say_VB_I-VP is_VBZ_B-VP that_IN_B-SBAR it_PRP_B-NP was_VBD_B-VP magnificent._._B-O
+Now_RB_B-ADVP it's_RB_I-ADVP so_RB_B-ADJP crowded_JJ_I-ADJP and_CC_I-ADJP loud_JJ_I-ADJP you_PRP_B-NP can't_MD_B-VP even_RB_I-VP talk_VB_I-VP to_TO_B-PP the_DT_B-NP person_NN_I-NP next_IN_B-NP to_TO_B-PP you._CD_B-NP
+Go,_SYM_B-O go,_VBZ_I-O hurry,_RBR_B-ADVP before_IN_B-SBAR everyone_NN_B-NP finds_VBZ_B-VP out_RP_B-PRT about_IN_B-PP it._JJ_B-NP
+I've_SYM_B-O been_VBN_B-VP many_JJ_B-NP time_NN_I-NP and_CC_B-O have_VBP_B-VP never_RB_I-VP been_VBN_I-VP disappointed._._B-O
+The_DT_B-NP food_NN_I-NP was_VBD_B-VP great._JJ_B-ADJP
+Don't_MD_B-VP leave_VB_I-VP without_IN_B-PP trying_VBG_B-VP One_CD_B-NP Night_NN_I-NP in_IN_B-PP Tokyo._NNP_B-NP
+I_PRP_B-NP would_MD_B-VP go_VB_I-VP back_RB_B-ADVP tho._._B-O
+Definately_RB_B-NP check_NN_I-NP it_PRP_B-NP out!!!_._B-O
+You_PRP_B-NP cannot_MD_B-VP go_VB_I-VP wrong_JJ_B-ADJP with_IN_B-PP this_DT_B-NP place._CD_I-NP
+As_IN_B-PP a_DT_B-NP Japanese_JJ_I-NP native,_NN_I-NP I've_NNS_I-NP lived_VBN_B-VP in_IN_B-PP the_DT_B-NP Tristate_NNP_I-NP area_NN_I-NP for_IN_B-PP over_IN_B-NP 8_CD_I-NP years,_NNS_I-NP but_CC_B-O I_PRP_B-NP was_VBD_B-VP just_RB_I-VP so_RB_I-VP amazed_VBN_I-VP at_IN_B-PP this_DT_B-NP place._CD_I-NP
+I_PRP_B-NP loving_VBP_B-VP bringing_VBG_I-VP friends_NNS_B-NP here_RB_B-ADJP -and_JJ_I-ADJP I_PRP_B-NP do_VBP_B-VP so_RB_B-NP every_DT_I-NP chance_NN_I-NP I_PRP_B-NP get._VBP_B-VP
+With_IN_B-PP the_DT_B-NP theater_NN_I-NP 2_CD_I-NP blocks_NNS_I-NP away_RB_B-ADVP we_PRP_B-NP had_VBD_B-VP a_DT_B-NP delicious_JJ_I-NP meal_NN_I-NP in_IN_B-PP a_DT_B-NP beautiful_JJ_I-NP room._CD_I-NP
+Even_RB_B-NP my_PRP$_I-NP Indian_JJ_I-NP friend_NN_I-NP couldn't_NN_I-NP believe_VBP_B-VP how_WRB_B-ADJP good_JJ_I-ADJP and_CC_I-ADJP tasty_JJ_I-ADJP everything_NN_B-NP was._._B-O
+We_PRP_B-NP were_VBD_B-VP not_RB_I-VP dissappointed_VBN_I-VP in_IN_B-PP the_DT_B-NP least_JJS_I-NP bit_NN_I-NP by_IN_B-PP this_DT_B-NP little_JJ_I-NP gem._._B-O
+A_DT_B-NP pleasant_JJ_I-NP surprise._CD_I-NP
+This_DT_B-NP was_VBD_B-VP a_DT_B-NP repeat_NN_I-NP visit_NN_I-NP and_CC_B-O we'll_RB_B-VP definitely_RB_I-VP be_VB_I-VP back_RB_B-ADVP again._CD_B-NP
+I_PRP_B-NP love_VBP_B-VP the_DT_B-NP fact_NN_I-NP that_IN_B-SBAR the_DT_B-NP pizza_NN_I-NP tastes_NNS_I-NP so_RB_B-ADJP good_JJ_I-ADJP and_CC_B-O is_VBZ_B-VP so_RB_B-O cheap._CD_B-NP
+Service_NN_B-NP was_VBD_B-VP prompt,_RB_B-ADJP friendly_JJ_I-ADJP and_CC_B-O great._JJ_B-NP
+OU_NNP_B-NP MUST_MD_B-VP TRY_VB_I-VP THIS_DT_B-NP RESTAURANT._._B-O
+All_DT_B-NP pretty_RB_I-NP good._._B-O
+Have_VB_B-VP eaten_VBN_I-VP at_IN_B-PP Ginger_NNP_B-NP House_NNP_I-NP several_JJ_B-NP times,_NNS_I-NP and_CC_B-O it's_NN_B-NP always_RB_B-ADVP good._._B-O
+I_PRP_B-NP haven't_MD_B-VP eat_VB_I-VP a_DT_B-NP lamb_NN_I-NP chop_NN_I-NP as_RB_B-ADJP delicious_JJ_I-ADJP as_IN_B-PP that,_PDT_B-O the_DT_B-NP salads_NNS_I-NP are_VBP_B-VP really_RB_I-VP nice_RB_I-VP dressed_VBN_I-VP with_IN_B-PP lemon_NN_B-NP and_CC_B-O extra_JJ_B-NP virgnin_NNS_I-NP olive_JJ_B-ADJP oil._CD_B-NP
+Drawbacks:_JJ_B-NP service_NN_I-NP is_VBZ_B-VP slow_JJ_B-ADJP and_CC_B-O they_PRP_B-NP don't_._B-O toast!_._I-O
+It_PRP_B-NP is_VBZ_B-VP by_IN_B-PP far_RB_B-NP my_PRP$_I-NP favorite_JJ_I-NP restaurant_NN_I-NP in_IN_B-PP Brooklyn._NNP_B-NP
+I've_RB_B-VP been_VBN_I-VP to_TO_B-PP Joya_NNP_B-NP twice_RB_B-ADVP and_CC_B-O I_PRP_B-NP will_MD_B-VP never_RB_I-VP go_VB_I-VP again._CD_B-NP
+A_DT_B-NP hearty_JJ_I-NP two_CD_I-NP thumbs_NNS_I-NP up!_._B-O
+Great_JJ_B-NP find!!!_NN_I-NP
+If_IN_B-SBAR only_RB_B-ADVP they_PRP_B-NP delivered,_MD_B-VP they'd_RB_I-VP make_VB_I-VP a_DT_B-NP mint!_NN_I-NP
+Was_VBD_B-VP surprisingly_RB_B-ADJP disappointed._._B-O
+The_DT_B-NP prices_NNS_I-NP were_VBD_B-VP fantastic._._B-O
+I'm_RB_B-VP told_VBD_I-VP that_IN_B-SBAR it_PRP_B-NP is_VBZ_B-VP open_JJ_B-NP 24hrs_NNS_I-NP which_WDT_B-NP is_VBZ_B-VP good._JJ_B-ADJP
+What_WP_B-NP more_JJR_B-NP could_MD_B-O you_PRP_B-NP want?_._B-O
+Excellent_JJ_B-NP experience._CD_I-NP
+Definitely_RB_B-ADVP a_DT_B-NP neighborhood_NN_I-NP favorite._NN_I-NP
+The_DT_B-NP food_NN_I-NP is_VBZ_B-VP terrible_JJ_B-ADJP and_CC_B-O overall,_VBP_I-O I_PRP_B-NP would_MD_B-VP have_VB_I-VP to_TO_I-VP say_VB_I-VP avoid_VB_I-VP at_IN_B-PP all_DT_B-NP costs._JJ_I-NP
+The_DT_B-NP food_NN_I-NP is_VBZ_B-VP prepared_VBN_I-VP quickly_RB_B-ADVP and_CC_B-O efficiently._JJ_B-NP
+The_DT_B-NP food_NN_I-NP is_VBZ_B-VP fresh,_JJ_B-ADJP delicious,_NNP_I-ADJP and_CC_B-O reasonably_RB_B-VP priced._NNP_B-NP
+This_DT_B-NP is_VBZ_B-VP my_PRP$_B-NP favorite_JJ_I-NP Italian_JJ_I-NP restaurant_NN_I-NP in_IN_B-PP all_DT_B-NP of_IN_B-PP New_NNP_B-NP York_NNP_I-NP City._NNP_I-NP
+Anyway,_CC_B-O this_DT_B-NP is_VBZ_B-VP the_DT_B-NP last_JJ_I-NP time_NN_I-NP I_PRP_B-NP cross_VBP_B-VP the_DT_B-NP williamsburg._JJS_I-NP
+I_PRP_B-NP am_VBP_B-VP bringing_VBG_I-VP my_PRP$_B-NP whole_JJ_I-NP family_NN_I-NP back_RB_B-ADJP next_JJ_I-ADJP time._._B-O
+Love_NNP_B-NP YUKA._NNP_I-NP
+As_IN_B-SBAR we_PRP_B-NP were_VBD_B-VP leaving,_PDT_B-O the_DT_B-NP couple_NN_I-NP standing_NN_I-NP by_IN_B-PP the_DT_B-NP door_NN_I-NP said_VBD_B-VP to_TO_B-PP another_DT_B-NP waiter,_JJ_I-NP we're_NN_I-NP not_RB_B-O in_IN_B-PP a_DT_B-NP hurry._CD_I-NP
+I_PRP_B-NP have_VBP_B-VP been_VBN_I-VP coming_VBG_I-VP to_TO_B-PP this_DT_B-NP neighborhood_NN_I-NP spot_NN_I-NP for_IN_B-PP years._CD_B-NP
+We_PRP_B-NP will_MD_B-VP be_VB_I-VP back._CD_B-NP
+The_DT_B-NP outdoor_JJ_I-NP atmosphere_NN_I-NP of_IN_B-PP sitting_VBG_B-VP on_IN_B-PP the_DT_B-NP sidewalk_NN_I-NP watching_VBG_B-VP the_DT_B-NP world_NN_I-NP go_VB_B-VP by_IN_B-PP 50_CD_B-NP feet_NNS_I-NP away_RB_B-ADVP on_IN_B-PP 6th_CD_B-NP avenue_NN_I-NP on_IN_B-PP a_DT_B-NP cool_JJ_I-NP evening_NN_I-NP was_VBD_B-VP wonderful._._B-O
+A_DT_B-NP large_JJ_I-NP is_VBZ_B-VP $20,_JJ_B-NP and_CC_I-NP toppings_NNS_I-NP are_VBP_B-VP about_IN_B-NP $3_$_I-NP each._CD_I-NP
+The_DT_B-NP spicy_JJ_I-NP tuna_NN_I-NP and_CC_I-NP salmon_NN_I-NP are_VBP_B-VP the_DT_B-NP best_JJS_I-NP we've_NN_I-NP ever_RB_I-NP had._._I-NP
+A_DT_B-NP guaranteeed_VBN_I-NP delight!_._B-O
+The_DT_B-NP food_NN_I-NP was_VBD_B-VP very_RB_B-ADJP good,_CD_I-ADJP a_DT_B-NP great_JJ_I-NP deal,_NN_I-NP and_CC_B-O the_DT_B-NP place_NN_I-NP its_PRP$_B-NP self_NN_I-NP was_VBD_B-VP great._JJ_B-ADJP
+The_DT_B-NP food_NN_I-NP is_VBZ_B-VP usually_RB_B-ADVP good_JJ_B-ADJP but_CC_B-O it_PRP_B-NP certainly_RB_B-ADVP isn't_VBZ_B-O a_DT_B-NP relaxing_VBG_I-NP place_NN_I-NP to_TO_B-PP go._CD_B-NP
+After_IN_B-SBAR dinner,_MD_B-O take_VB_B-VP your_PRP$_B-NP date_NN_I-NP to_TO_B-PP the_DT_B-NP HUGE_JJ_I-NP dance_NN_I-NP floor,_WDT_B-NP probably_RB_B-ADVP one_CD_B-NP of_IN_B-PP the_DT_B-NP biggest_JJS_I-NP you'll_NNS_I-NP see_VBP_B-VP in_IN_B-PP NY._._B-O
+The_DT_B-NP server_NN_I-NP was_VBD_B-VP really_RB_B-ADJP cool_JJ_I-ADJP and_CC_B-O served_VBD_B-VP us_PRP_B-NP our_PRP$_B-NP food_NN_I-NP and_CC_I-NP drinks_NNS_I-NP with_IN_B-PP a_DT_B-NP smile._CD_I-NP
+The_DT_B-NP dishes_NNS_I-NP offered_VBN_B-VP were_VBD_B-VP unique,_JJ_B-ADJP very_RB_I-ADJP tasty_JJ_I-ADJP and_CC_I-ADJP fresh_JJ_I-ADJP from_IN_B-PP the_DT_B-NP lamb_NN_I-NP sausages,_JJ_I-NP sardines_NNS_I-NP with_IN_B-PP biscuits,_JJ_B-NP large_JJ_I-NP whole_JJ_I-NP shrimp_NN_I-NP to_TO_B-PP the_DT_B-NP amazing_JJ_I-NP pistachio_JJ_I-NP ice_NN_I-NP cream_NN_I-NP (the_CC_B-NP best_JJS_I-NP and_CC_I-NP freshest_JJS_I-NP I've_NN_I-NP ever_RB_B-ADVP had)._._B-O
+Went_VBD_B-VP there_RB_B-ADVP for_IN_B-PP an_DT_B-NP office_NN_I-NP lunch._._B-O
+We've_RB_B-CONJP only_RB_I-CONJP eaten_VBN_B-VP in_IN_B-PP the_DT_B-NP restaurant_NN_I-NP once,_NNS_I-NP but_CC_B-O we_PRP_B-NP have_VBP_B-VP ordered_VBN_I-VP many_JJ_B-NP times_NNS_I-NP for_IN_B-PP dinner._JJ_B-NP
